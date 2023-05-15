@@ -1,0 +1,8 @@
+socket-proxy
+traefik
+oauth
+vscode
+portainer
+autoindex
+crowdsec
+traefik-bouncer
